@@ -1,0 +1,224 @@
+#newGround{
+
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: rgba(19,103,239,0.5);
+
+}
+
+#newGround .content{
+    width: 600px;
+	height: 40%;
+	margin: auto;
+	margin-top: 250px;
+}
+
+
+#newGround .content .details{
+
+width: 600px;
+	height: 40%;
+
+	
+}
+
+#newGround .content .details p{
+
+ padding-top: 40px; 
+ font-size: 20px;
+ font-family: 'Ubuntu', sans-serif;
+text-align: center;
+
+	
+} 
+
+
+#newGround .content .details h1{
+	  font-size: 60px;
+text-align: center;
+   font-weight: bolder;	
+   font-family: 'Signika', sans-serif;
+
+} 
+
+
+#newGround .buttonDetails button{
+
+   width: 200px;
+   height: 40px;
+   font-family: 'Signika', sans-serif;
+   font-size: 20px;
+   background-color: blue;
+   color: white;
+   border: 0px;
+   border-radius: 5px;
+   margin-top: 50px;
+
+} 
+
+
+
+#newGround .buttonDetails .login-button{
+margin-left: 80px;
+
+} 
+
+
+#newGround .buttonDetails button:hover{
+
+   background-color: red;
+
+
+} 
+
+
+
+#bg-image{
+
+	background: url(images/laundry2.jpg) no-repeat 0 0 / cover;
+	 position: relative;
+    width: 100%;
+    height: 100vh;
+    display: table;
+    
+}
+
+#theLogRegPage{
+
+   margin-top: 150px;
+   background-color: rgba(38, 86, 241,0.5);
+}
+
+
+#theLogRegPage ul li a{
+
+    color: whitesmoke;
+}
+
+
+#theLogRegPage ul li a:hover{
+
+   color: black;
+}
+
+#thelogin form{
+
+   margin-top: 50px;
+}
+
+#thelogin input[type=text]{
+
+   width:300px;
+   height:40px ;
+   color: black;
+
+}
+
+
+#thelogin input[type=password]{
+
+   width:300px;
+   height:40px ;
+   color: black;
+
+}
+
+#thelogin button{
+
+   width:200px;
+   margin-left:50px;
+   
+
+}
+
+
+
+#theregister input[type=text]{
+
+   width:300px;
+   height:40px ;
+   margin-top:30px;
+   color: black;
+
+}
+
+#theregister input[type=email]{
+
+   width:300px;
+   height:40px ;
+   margin-top:30px;
+   color: black;
+
+}
+
+
+
+#theregister input[type=address]{
+
+   width:300px;
+   height:40px ;
+   margin-top:30px;
+   color: black;
+
+
+}
+
+#theregister input[type=password]{
+
+   width:300px;
+   height:40px ;
+   margin-top:30px;
+   color: black;
+
+}
+
+#theregister label{
+
+   padding-top: 33px;
+
+}
+
+
+#theregister button{
+   width:200px;
+   margin-top:30px;
+   margin-bottom: 30px;
+   margin-left:50px;
+}
+
+#theforgot-pw  input[type=text]{
+
+   width:300px;
+   height:40px ;
+   margin-top:30px;
+   color: black;
+
+}
+
+
+#theforgot-pw label{
+
+   padding-top:35px;
+   
+}
+
+
+#theforgot-pw h4{
+  
+   padding-top:50px;
+   padding-left:30px;
+}
+
+
+
+#theforgot-pw button{
+
+width:200px;
+margin-top:20px;
+margin-bottom:20px;
+margin-left:50px;
+}
+
+
+
